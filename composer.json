@@ -1,0 +1,17 @@
+{
+    "name": "oybek/kwork",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oybek"
+        }
+    ]
+}
