@@ -1,6 +1,6 @@
 {
     "name": "oybek/kwork",
-    "type": "project",
+    "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.8"
     },
