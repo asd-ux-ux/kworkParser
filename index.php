@@ -1,6 +1,6 @@
 <?php
-require_once('vendor/autoload.php');
+namespace Kwork;
+require_once 'vendor/autoload.php';
 
-$obj = new Kwork\KworkParser();
+$class = new Parser();
 
-print_r($obj->parse());

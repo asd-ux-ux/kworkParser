@@ -1,9 +1,5 @@
 {
-    "name": "oybek/kwork",
-    "type": "library",
-    "require-dev": {
-        "guzzlehttp/guzzle": "^7.8"
-    },
+    "name": "kwork/parser",
     "autoload": {
         "psr-4": {
             "Kwork\\": "src/"
@@ -11,7 +7,9 @@
     },
     "authors": [
         {
-            "name": "Oybek"
+            "name": "Oybek",
+            "email": "atavullaevoybek@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }
